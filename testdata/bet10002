@@ -1,0 +1,10 @@
+[
+{"url":"/incubator/bc/bet/saleDraw.do","gameId":"10002","code":"000","caseId":""},
+{"url":"/incubator/bc/bet/bet.do","accountCode":"testAccount","betAmount":3,"drawId":"00000","gameId":10002,"oldSerialNo":"","serialNo":"000000","code":"000","caseId":"482"},
+{"url":"/incubator/bc/bet/saleDraw.do","gameId":"10002","code":"000","caseId":""},
+{"url":"/incubator/bc/bet/bet.do","accountCode":"testAccount","betAmount":3,"drawId":"00000","gameId":10002,"oldSerialNo":"","serialNo":"000000","code":"000","caseId":"482"},
+{"url":"/incubator/bc/bet/saleDraw.do","gameId":"10002","code":"000","caseId":""},
+{"url":"/incubator/bc/bet/bet.do","accountCode":"testAccount","betAmount":3,"drawId":"00000","gameId":10002,"oldSerialNo":"","serialNo":"000000","code":"000","caseId":"482"},
+{"url":"/incubator/bc/bet/saleDraw.do","gameId":"10002","code":"000","caseId":""},
+{"url":"/incubator/bc/bet/bet.do","accountCode":"testAccount","betAmount":3,"drawId":"00000","gameId":10002,"oldSerialNo":"","serialNo":"000000","code":"000","caseId":"482"}
+]

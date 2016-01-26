@@ -1,0 +1,9 @@
+gameServerIp = "192.169.23.24"
+gameServerPort = 8080
+testList = "flist"
+drawId = "00000"
+drawStatus = 0
+db = "dev_game_user/oracle@//192.169.23.210:1521/systekdb"
+tlip = "192.169.21.104"
+tlport = 80
+tlurl = "/index.php"
